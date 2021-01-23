@@ -21,7 +21,7 @@ Prepare as ferramentas e materiais.
 > aplicativo termux
 ```
 INSTALAÇÃO:
-
+```
 > Se você não tiver o APK Termux, baixe-o na PlayStore
 > entre no apk termux e digite abaixo!
 > termux-setup-storage
@@ -31,10 +31,25 @@ INSTALAÇÃO:
 > pkg install nodejs
 > pkg Install bash
 > apt update
-> git clone https://github.com/HigorOlive/d4rk
-> cd d4rk
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Basta escanear o código qr e ... pronto
+```
+GIT CLONE
+```
+> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
+> cd termux-whatsapp-bot
+```
+Continuando...
+```
+> pkg install tesseract
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i node-tesseract-ocr
+> npm i
+> npm i got
+```
+Bot:
+```
+> node index.js
+> Depois basta escanear o código qr e pronto
 ```
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
